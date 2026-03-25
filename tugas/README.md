@@ -71,7 +71,7 @@ Bagian ini berisi gambar hasil program saat dijalankan.
 🧪Secara keseluruhan, tugas ini memberikan dasar yang baik dalam pengolahan data sederhana serta meningkatkan pemahaman saya terhadap keterkaitan antara struktur data, algoritma, dan visualisasi data. Ke depannya, saya berencana untuk mengembangkan kemampuan ini dalam skala data yang lebih besar dan kompleks.
 
 
-### DIBUAT OLEH I GEDE WINASA EDY PURNAMA
+### DIBUAT OLEH I GEDE WINASA EDY PURNAMA DENGAN NIM (2501010082)
 
 
 
