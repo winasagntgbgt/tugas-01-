@@ -1,4 +1,4 @@
-## 📌 1. Penjelasan Konsep Array
+### 📌 1. Penjelasan Konsep Array
 
 Array dalam Python disebut list.
 List digunakan untuk menyimpan banyak data dalam satu variabel.
@@ -21,7 +21,7 @@ nilai = [80, 75, 90, 60]
 
 
 
-## 📸 2. Screenshot Hasil Eksekusi
+### 📸 2. Screenshot Hasil Eksekusi
 Bagian ini berisi gambar hasil program saat dijalankan.
 
 ## 🧾Input nilai
@@ -44,7 +44,7 @@ Bagian ini berisi gambar hasil program saat dijalankan.
 
 
 
-📊 #3. Analisis Kompleksitas
+### 📊 3. Analisis Kompleksitas
 | No | ⚙️ Proses                | 📝 Penjelasan                                   | ⏱️ Kompleksitas |
 |----|--------------------------|-----------------------------------------------|----------------|
 | 1  | 🧮 Input nilai           | Memasukkan n data ke dalam array              | O(n)           |
@@ -61,7 +61,7 @@ Bagian ini berisi gambar hasil program saat dijalankan.
 
 ⚡Artinya: semakin banyak data, waktu proses bertambah secara linear
 
-## ✍️ 4. Refleksi Pembelajaran
+### ✍️ 4. Refleksi Pembelajaran
 🧪Melalui pengerjaan tugas ini, saya memperoleh pemahaman yang lebih baik mengenai penggunaan struktur data array (list) dalam Python untuk menyimpan dan mengelola sekumpulan data. Saya juga mempelajari bagaimana mengimplementasikan operasi dasar seperti pencarian nilai maksimum, minimum, serta perhitungan rata-rata.
 
 🧪saya memahami pentingnya proses iterasi (perulangan) dalam pengolahan data, yang berpengaruh terhadap efisiensi program. Hal ini diperkuat dengan analisis kompleksitas waktu (Big O), di mana sebagian besar proses dalam program memiliki kompleksitas O(n).
@@ -71,7 +71,7 @@ Bagian ini berisi gambar hasil program saat dijalankan.
 🧪Secara keseluruhan, tugas ini memberikan dasar yang baik dalam pengolahan data sederhana serta meningkatkan pemahaman saya terhadap keterkaitan antara struktur data, algoritma, dan visualisasi data. Ke depannya, saya berencana untuk mengembangkan kemampuan ini dalam skala data yang lebih besar dan kompleks.
 
 
-
+### DIBUAT OLEH I GEDE WINASA EDY PURNAMA
 
 
 
