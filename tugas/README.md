@@ -4,6 +4,7 @@ Array dalam Python disebut list.
 List digunakan untuk menyimpan banyak data dalam satu variabel.
 
 💻Contoh:
+
 nilai = [80, 75, 90, 60]
 
 💡Penjelasan:
