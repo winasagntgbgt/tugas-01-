@@ -8,11 +8,14 @@ nilai = [80, 75, 90, 60]
 
 💡Penjelasan:
 -nilai adalah tempat menyimpan data
+
 -setiap data bisa diakses dengan nomor urutan (indeks)
+
 -Contoh: nilai[0] berarti data pertama
 
 💡Pada program ini, array digunakan untuk:
 -Menyimpan 10 nilai mahasiswa
+
 -Mengolah data seperti mencari nilai tertinggi, terendah, dan rata-rata
 
 
