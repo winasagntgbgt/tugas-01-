@@ -7,16 +7,16 @@ List digunakan untuk menyimpan banyak data dalam satu variabel.
 nilai = [80, 75, 90, 60]
 
 💡Penjelasan:
--nilai adalah tempat menyimpan data
+- **nilai adalah tempat menyimpan data
 
--setiap data bisa diakses dengan nomor urutan (indeks)
+_ **setiap data bisa diakses dengan nomor urutan (indeks)
 
 -Contoh: nilai[0] berarti data pertama
 
 💡Pada program ini, array digunakan untuk:
--Menyimpan 10 nilai mahasiswa
+- **Menyimpan 10 nilai mahasiswa
 
--Mengolah data seperti mencari nilai tertinggi, terendah, dan rata-rata
+- **Mengolah data seperti mencari nilai tertinggi, terendah, dan rata-rata
 
 
 ## 📸 2. Screenshot Hasil Eksekusi
