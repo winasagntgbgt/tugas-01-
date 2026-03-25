@@ -19,6 +19,8 @@ nilai = [80, 75, 90, 60]
 - Mengolah data seperti mencari nilai tertinggi, terendah, dan rata-rata
 
 
+
+
 ## 📸 2. Screenshot Hasil Eksekusi
 Bagian ini berisi gambar hasil program saat dijalankan.
 
@@ -37,6 +39,8 @@ Bagian ini berisi gambar hasil program saat dijalankan.
 
 
 ## 🧾Grafik data kelulusan
+<img width="484" height="511" alt="Screenshot 2026-03-25 124544" src="https://github.com/user-attachments/assets/d61e5890-916f-48e8-9a89-6d681cc9cd0d" />
+
 
 
 
